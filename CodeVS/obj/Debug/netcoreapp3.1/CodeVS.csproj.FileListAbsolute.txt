@@ -1,0 +1,16 @@
+/home/dexter487/Public/CodeVS/bin/Debug/netcoreapp3.1/CodeVS
+/home/dexter487/Public/CodeVS/bin/Debug/netcoreapp3.1/CodeVS.deps.json
+/home/dexter487/Public/CodeVS/bin/Debug/netcoreapp3.1/CodeVS.runtimeconfig.json
+/home/dexter487/Public/CodeVS/bin/Debug/netcoreapp3.1/CodeVS.runtimeconfig.dev.json
+/home/dexter487/Public/CodeVS/bin/Debug/netcoreapp3.1/CodeVS.dll
+/home/dexter487/Public/CodeVS/bin/Debug/netcoreapp3.1/CodeVS.pdb
+/home/dexter487/Public/CodeVS/obj/Debug/netcoreapp3.1/CodeVS.csprojAssemblyReference.cache
+/home/dexter487/Public/CodeVS/obj/Debug/netcoreapp3.1/CodeVS.csproj.CoreCompileInputs.cache
+/home/dexter487/Public/CodeVS/obj/Debug/netcoreapp3.1/CodeVS.AssemblyInfoInputs.cache
+/home/dexter487/Public/CodeVS/obj/Debug/netcoreapp3.1/CodeVS.AssemblyInfo.cs
+/home/dexter487/Public/CodeVS/obj/Debug/netcoreapp3.1/CodeVS.dll
+/home/dexter487/Public/CodeVS/obj/Debug/netcoreapp3.1/CodeVS.pdb
+/home/dexter487/Public/CodeVS/obj/Debug/netcoreapp3.1/CodeVS.genruntimeconfig.cache
+/home/dexter487/Public/CodeVS/bin/Debug/netcoreapp3.1/HtmlAgilityPack.dll
+/home/dexter487/Public/CodeVS/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/home/dexter487/Public/CodeVS/obj/Debug/netcoreapp3.1/CodeVS.csproj.CopyComplete
